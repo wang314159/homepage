@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/wang314159-github-blue?logo=github)](https://github.com/wang314159)
+[![wang314159](https://img.shields.io/badge/wang314159-github-blue?logo=github)](https://github.com/wang314159)
 
 I'm currently pursuing a Master's degree in Control Engineering at the Robot and Machine Intelligence Lab, Zhejiang University, HangZhou.
 
