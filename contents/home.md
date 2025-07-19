@@ -10,7 +10,6 @@ I'm currently pursuing a Master's degree in Control Engineering at the Robot and
 **Zhejiang University**, Master of Control Engineering (2025 – )   
 
 **Zhejiang University**, Honours Bachelor of Robotics Engineering (2021 – 2025) 
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
 
 #### Research Interests  
 Humanoid robots, reinforcement learning
