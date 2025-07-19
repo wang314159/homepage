@@ -1,20 +1,16 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Control Engineering at the Robot and Machine Intelligence Lab, Zhejiang University, HangZhou.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>wshuai@zju.edu.cn</code>  
+<code>wshuaizju@gmail.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Zhejiang University**, Master of Control Engineering (2025 – )   
 
-**XX University**, Exchange student <br>  
+**Zhejiang University**, Honours Bachelor of Robotics Engineering (2021 – 2025) 
 • As a XX, represented my college as an outstanding student for a XX exchange program.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
 #### Research Interests  
-XX, XX, XX, XX.
+Humanoid robots, reinforcement learning
